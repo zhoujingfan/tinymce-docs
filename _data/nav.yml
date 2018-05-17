@@ -27,6 +27,7 @@
   pages:
   - url: "whats-new"
   - url: "basic-example"
+  - url: "tinysheets"
   - url: "full-featured"
   - url: "inlite"
   - url: "inline"
