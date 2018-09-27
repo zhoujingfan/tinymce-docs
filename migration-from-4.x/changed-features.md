@@ -53,7 +53,7 @@ For changes required, refer to the following table:
 
 ### Dialog
 
-Plugins that use dialogs as their UI, no longer have `height` or `width` properties. The dialog component now uses a predefined `small`, `medium`, and `large` template to specify the dimensions. 
+Plugins that use dialogs as their UI, no longer have `height` or `width` properties. The dialog component now uses a predefined `normal`, `medium`, and `large` template to specify the dimensions. 
 
 #### Differences from 4.x to 5.0
 
